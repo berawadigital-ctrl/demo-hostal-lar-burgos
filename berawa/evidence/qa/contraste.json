@@ -1,0 +1,1086 @@
+{
+ "total": 108,
+ "fallos": [],
+ "detalle": [
+  {
+   "vp": "desktop",
+   "l": "es",
+   "sel": ".brand",
+   "color": "rgb(255, 255, 255)",
+   "size": 23.2,
+   "peor_contraste": 18.48,
+   "minimo": 4.5,
+   "ok": true
+  },
+  {
+   "vp": "desktop",
+   "l": "es",
+   "sel": ".cta > .btn[data-t=\"book_long\"][data-book=\"\"]",
+   "color": "rgb(255, 255, 255)",
+   "size": 15.2,
+   "peor_contraste": 13.51,
+   "minimo": 4.5,
+   "ok": true
+  },
+  {
+   "vp": "desktop",
+   "l": "es",
+   "sel": ".ill",
+   "color": "rgb(255, 255, 255)",
+   "size": 11.52,
+   "peor_contraste": 20.54,
+   "minimo": 4.5,
+   "ok": true
+  },
+  {
+   "vp": "desktop",
+   "l": "es",
+   "sel": "a[data-t=\"nav_rooms\"]",
+   "color": "rgb(255, 255, 255)",
+   "size": 14.72,
+   "peor_contraste": 18.76,
+   "minimo": 4.5,
+   "ok": true
+  },
+  {
+   "vp": "desktop",
+   "l": "es",
+   "sel": "a[data-t=\"see_rooms\"]",
+   "color": "rgb(255, 255, 255)",
+   "size": 15.2,
+   "peor_contraste": 16.81,
+   "minimo": 4.5,
+   "ok": true
+  },
+  {
+   "vp": "desktop",
+   "l": "es",
+   "sel": "a[href$=\"#contact\"]",
+   "color": "rgb(255, 255, 255)",
+   "size": 14.72,
+   "peor_contraste": 18.75,
+   "minimo": 4.5,
+   "ok": true
+  },
+  {
+   "vp": "desktop",
+   "l": "es",
+   "sel": "a[href$=\"#gallery\"]",
+   "color": "rgb(255, 255, 255)",
+   "size": 14.72,
+   "peor_contraste": 18.76,
+   "minimo": 4.5,
+   "ok": true
+  },
+  {
+   "vp": "desktop",
+   "l": "es",
+   "sel": "a[href$=\"#services\"]",
+   "color": "rgb(255, 255, 255)",
+   "size": 14.72,
+   "peor_contraste": 18.75,
+   "minimo": 4.5,
+   "ok": true
+  },
+  {
+   "vp": "desktop",
+   "l": "es",
+   "sel": "button[data-l=\"de\"]",
+   "color": "rgb(255, 255, 255)",
+   "size": 12.48,
+   "peor_contraste": 18.48,
+   "minimo": 4.5,
+   "ok": true
+  },
+  {
+   "vp": "desktop",
+   "l": "es",
+   "sel": "button[data-l=\"en\"]",
+   "color": "rgb(255, 255, 255)",
+   "size": 12.48,
+   "peor_contraste": 18.48,
+   "minimo": 4.5,
+   "ok": true
+  },
+  {
+   "vp": "desktop",
+   "l": "es",
+   "sel": "button[data-l=\"es\"]",
+   "color": "rgb(255, 255, 255)",
+   "size": 12.48,
+   "peor_contraste": 11.62,
+   "minimo": 4.5,
+   "ok": true
+  },
+  {
+   "vp": "desktop",
+   "l": "es",
+   "sel": "button[data-l=\"fr\"]",
+   "color": "rgb(255, 255, 255)",
+   "size": 12.48,
+   "peor_contraste": 18.48,
+   "minimo": 4.5,
+   "ok": true
+  },
+  {
+   "vp": "desktop",
+   "l": "es",
+   "sel": "div[data-t=\"hero_k\"]",
+   "color": "rgb(255, 255, 255)",
+   "size": 12.48,
+   "peor_contraste": 13.83,
+   "minimo": 4.5,
+   "ok": true
+  },
+  {
+   "vp": "desktop",
+   "l": "es",
+   "sel": "h1",
+   "color": "rgb(255, 255, 255)",
+   "size": 83.2,
+   "peor_contraste": 13.72,
+   "minimo": 3,
+   "ok": true
+  },
+  {
+   "vp": "desktop",
+   "l": "es",
+   "sel": "p[data-t=\"hero_s\"]",
+   "color": "rgb(255, 255, 255)",
+   "size": 18.4,
+   "peor_contraste": 16.54,
+   "minimo": 4.5,
+   "ok": true
+  },
+  {
+   "vp": "desktop",
+   "l": "en",
+   "sel": ".brand",
+   "color": "rgb(255, 255, 255)",
+   "size": 23.2,
+   "peor_contraste": 18.48,
+   "minimo": 4.5,
+   "ok": true
+  },
+  {
+   "vp": "desktop",
+   "l": "en",
+   "sel": ".cta > .btn[data-t=\"book_long\"][data-book=\"\"]",
+   "color": "rgb(255, 255, 255)",
+   "size": 15.2,
+   "peor_contraste": 13.51,
+   "minimo": 4.5,
+   "ok": true
+  },
+  {
+   "vp": "desktop",
+   "l": "en",
+   "sel": ".ill",
+   "color": "rgb(255, 255, 255)",
+   "size": 11.52,
+   "peor_contraste": 20.54,
+   "minimo": 4.5,
+   "ok": true
+  },
+  {
+   "vp": "desktop",
+   "l": "en",
+   "sel": "a[data-t=\"nav_rooms\"]",
+   "color": "rgb(255, 255, 255)",
+   "size": 14.72,
+   "peor_contraste": 18.76,
+   "minimo": 4.5,
+   "ok": true
+  },
+  {
+   "vp": "desktop",
+   "l": "en",
+   "sel": "a[data-t=\"see_rooms\"]",
+   "color": "rgb(255, 255, 255)",
+   "size": 15.2,
+   "peor_contraste": 16.81,
+   "minimo": 4.5,
+   "ok": true
+  },
+  {
+   "vp": "desktop",
+   "l": "en",
+   "sel": "a[href$=\"#contact\"]",
+   "color": "rgb(255, 255, 255)",
+   "size": 14.72,
+   "peor_contraste": 18.75,
+   "minimo": 4.5,
+   "ok": true
+  },
+  {
+   "vp": "desktop",
+   "l": "en",
+   "sel": "a[href$=\"#gallery\"]",
+   "color": "rgb(255, 255, 255)",
+   "size": 14.72,
+   "peor_contraste": 18.76,
+   "minimo": 4.5,
+   "ok": true
+  },
+  {
+   "vp": "desktop",
+   "l": "en",
+   "sel": "a[href$=\"#services\"]",
+   "color": "rgb(255, 255, 255)",
+   "size": 14.72,
+   "peor_contraste": 18.76,
+   "minimo": 4.5,
+   "ok": true
+  },
+  {
+   "vp": "desktop",
+   "l": "en",
+   "sel": "button[data-l=\"de\"]",
+   "color": "rgb(255, 255, 255)",
+   "size": 12.48,
+   "peor_contraste": 18.48,
+   "minimo": 4.5,
+   "ok": true
+  },
+  {
+   "vp": "desktop",
+   "l": "en",
+   "sel": "button[data-l=\"en\"]",
+   "color": "rgb(255, 255, 255)",
+   "size": 12.48,
+   "peor_contraste": 11.62,
+   "minimo": 4.5,
+   "ok": true
+  },
+  {
+   "vp": "desktop",
+   "l": "en",
+   "sel": "button[data-l=\"es\"]",
+   "color": "rgb(255, 255, 255)",
+   "size": 12.48,
+   "peor_contraste": 18.48,
+   "minimo": 4.5,
+   "ok": true
+  },
+  {
+   "vp": "desktop",
+   "l": "en",
+   "sel": "button[data-l=\"fr\"]",
+   "color": "rgb(255, 255, 255)",
+   "size": 12.48,
+   "peor_contraste": 18.48,
+   "minimo": 4.5,
+   "ok": true
+  },
+  {
+   "vp": "desktop",
+   "l": "en",
+   "sel": "div[data-t=\"hero_k\"]",
+   "color": "rgb(255, 255, 255)",
+   "size": 12.48,
+   "peor_contraste": 13.83,
+   "minimo": 4.5,
+   "ok": true
+  },
+  {
+   "vp": "desktop",
+   "l": "en",
+   "sel": "h1",
+   "color": "rgb(255, 255, 255)",
+   "size": 83.2,
+   "peor_contraste": 13.67,
+   "minimo": 3,
+   "ok": true
+  },
+  {
+   "vp": "desktop",
+   "l": "en",
+   "sel": "p[data-t=\"hero_s\"]",
+   "color": "rgb(255, 255, 255)",
+   "size": 18.4,
+   "peor_contraste": 16.72,
+   "minimo": 4.5,
+   "ok": true
+  },
+  {
+   "vp": "desktop",
+   "l": "fr",
+   "sel": ".brand",
+   "color": "rgb(255, 255, 255)",
+   "size": 23.2,
+   "peor_contraste": 18.48,
+   "minimo": 4.5,
+   "ok": true
+  },
+  {
+   "vp": "desktop",
+   "l": "fr",
+   "sel": ".cta > .btn[data-t=\"book_long\"][data-book=\"\"]",
+   "color": "rgb(255, 255, 255)",
+   "size": 15.2,
+   "peor_contraste": 13.51,
+   "minimo": 4.5,
+   "ok": true
+  },
+  {
+   "vp": "desktop",
+   "l": "fr",
+   "sel": ".ill",
+   "color": "rgb(255, 255, 255)",
+   "size": 11.52,
+   "peor_contraste": 20.54,
+   "minimo": 4.5,
+   "ok": true
+  },
+  {
+   "vp": "desktop",
+   "l": "fr",
+   "sel": "a[data-t=\"nav_rooms\"]",
+   "color": "rgb(255, 255, 255)",
+   "size": 14.72,
+   "peor_contraste": 18.76,
+   "minimo": 4.5,
+   "ok": true
+  },
+  {
+   "vp": "desktop",
+   "l": "fr",
+   "sel": "a[data-t=\"see_rooms\"]",
+   "color": "rgb(255, 255, 255)",
+   "size": 15.2,
+   "peor_contraste": 16.81,
+   "minimo": 4.5,
+   "ok": true
+  },
+  {
+   "vp": "desktop",
+   "l": "fr",
+   "sel": "a[href$=\"#contact\"]",
+   "color": "rgb(255, 255, 255)",
+   "size": 14.72,
+   "peor_contraste": 18.76,
+   "minimo": 4.5,
+   "ok": true
+  },
+  {
+   "vp": "desktop",
+   "l": "fr",
+   "sel": "a[href$=\"#gallery\"]",
+   "color": "rgb(255, 255, 255)",
+   "size": 14.72,
+   "peor_contraste": 18.76,
+   "minimo": 4.5,
+   "ok": true
+  },
+  {
+   "vp": "desktop",
+   "l": "fr",
+   "sel": "a[href$=\"#services\"]",
+   "color": "rgb(255, 255, 255)",
+   "size": 14.72,
+   "peor_contraste": 18.76,
+   "minimo": 4.5,
+   "ok": true
+  },
+  {
+   "vp": "desktop",
+   "l": "fr",
+   "sel": "button[data-l=\"de\"]",
+   "color": "rgb(255, 255, 255)",
+   "size": 12.48,
+   "peor_contraste": 18.48,
+   "minimo": 4.5,
+   "ok": true
+  },
+  {
+   "vp": "desktop",
+   "l": "fr",
+   "sel": "button[data-l=\"en\"]",
+   "color": "rgb(255, 255, 255)",
+   "size": 12.48,
+   "peor_contraste": 18.48,
+   "minimo": 4.5,
+   "ok": true
+  },
+  {
+   "vp": "desktop",
+   "l": "fr",
+   "sel": "button[data-l=\"es\"]",
+   "color": "rgb(255, 255, 255)",
+   "size": 12.48,
+   "peor_contraste": 18.48,
+   "minimo": 4.5,
+   "ok": true
+  },
+  {
+   "vp": "desktop",
+   "l": "fr",
+   "sel": "button[data-l=\"fr\"]",
+   "color": "rgb(255, 255, 255)",
+   "size": 12.48,
+   "peor_contraste": 11.62,
+   "minimo": 4.5,
+   "ok": true
+  },
+  {
+   "vp": "desktop",
+   "l": "fr",
+   "sel": "div[data-t=\"hero_k\"]",
+   "color": "rgb(255, 255, 255)",
+   "size": 12.48,
+   "peor_contraste": 13.83,
+   "minimo": 4.5,
+   "ok": true
+  },
+  {
+   "vp": "desktop",
+   "l": "fr",
+   "sel": "h1",
+   "color": "rgb(255, 255, 255)",
+   "size": 83.2,
+   "peor_contraste": 13.71,
+   "minimo": 3,
+   "ok": true
+  },
+  {
+   "vp": "desktop",
+   "l": "fr",
+   "sel": "p[data-t=\"hero_s\"]",
+   "color": "rgb(255, 255, 255)",
+   "size": 18.4,
+   "peor_contraste": 16.56,
+   "minimo": 4.5,
+   "ok": true
+  },
+  {
+   "vp": "desktop",
+   "l": "de",
+   "sel": ".brand",
+   "color": "rgb(255, 255, 255)",
+   "size": 23.2,
+   "peor_contraste": 18.48,
+   "minimo": 4.5,
+   "ok": true
+  },
+  {
+   "vp": "desktop",
+   "l": "de",
+   "sel": ".cta > .btn[data-t=\"book_long\"][data-book=\"\"]",
+   "color": "rgb(255, 255, 255)",
+   "size": 15.2,
+   "peor_contraste": 13.51,
+   "minimo": 4.5,
+   "ok": true
+  },
+  {
+   "vp": "desktop",
+   "l": "de",
+   "sel": ".ill",
+   "color": "rgb(255, 255, 255)",
+   "size": 11.52,
+   "peor_contraste": 20.54,
+   "minimo": 4.5,
+   "ok": true
+  },
+  {
+   "vp": "desktop",
+   "l": "de",
+   "sel": "a[data-t=\"nav_rooms\"]",
+   "color": "rgb(255, 255, 255)",
+   "size": 14.72,
+   "peor_contraste": 18.76,
+   "minimo": 4.5,
+   "ok": true
+  },
+  {
+   "vp": "desktop",
+   "l": "de",
+   "sel": "a[data-t=\"see_rooms\"]",
+   "color": "rgb(255, 255, 255)",
+   "size": 15.2,
+   "peor_contraste": 16.81,
+   "minimo": 4.5,
+   "ok": true
+  },
+  {
+   "vp": "desktop",
+   "l": "de",
+   "sel": "a[href$=\"#contact\"]",
+   "color": "rgb(255, 255, 255)",
+   "size": 14.72,
+   "peor_contraste": 18.79,
+   "minimo": 4.5,
+   "ok": true
+  },
+  {
+   "vp": "desktop",
+   "l": "de",
+   "sel": "a[href$=\"#gallery\"]",
+   "color": "rgb(255, 255, 255)",
+   "size": 14.72,
+   "peor_contraste": 18.76,
+   "minimo": 4.5,
+   "ok": true
+  },
+  {
+   "vp": "desktop",
+   "l": "de",
+   "sel": "a[href$=\"#services\"]",
+   "color": "rgb(255, 255, 255)",
+   "size": 14.72,
+   "peor_contraste": 18.76,
+   "minimo": 4.5,
+   "ok": true
+  },
+  {
+   "vp": "desktop",
+   "l": "de",
+   "sel": "button[data-l=\"de\"]",
+   "color": "rgb(255, 255, 255)",
+   "size": 12.48,
+   "peor_contraste": 11.62,
+   "minimo": 4.5,
+   "ok": true
+  },
+  {
+   "vp": "desktop",
+   "l": "de",
+   "sel": "button[data-l=\"en\"]",
+   "color": "rgb(255, 255, 255)",
+   "size": 12.48,
+   "peor_contraste": 18.48,
+   "minimo": 4.5,
+   "ok": true
+  },
+  {
+   "vp": "desktop",
+   "l": "de",
+   "sel": "button[data-l=\"es\"]",
+   "color": "rgb(255, 255, 255)",
+   "size": 12.48,
+   "peor_contraste": 18.48,
+   "minimo": 4.5,
+   "ok": true
+  },
+  {
+   "vp": "desktop",
+   "l": "de",
+   "sel": "button[data-l=\"fr\"]",
+   "color": "rgb(255, 255, 255)",
+   "size": 12.48,
+   "peor_contraste": 18.48,
+   "minimo": 4.5,
+   "ok": true
+  },
+  {
+   "vp": "desktop",
+   "l": "de",
+   "sel": "div[data-t=\"hero_k\"]",
+   "color": "rgb(255, 255, 255)",
+   "size": 12.48,
+   "peor_contraste": 13.83,
+   "minimo": 4.5,
+   "ok": true
+  },
+  {
+   "vp": "desktop",
+   "l": "de",
+   "sel": "h1",
+   "color": "rgb(255, 255, 255)",
+   "size": 83.2,
+   "peor_contraste": 13.67,
+   "minimo": 3,
+   "ok": true
+  },
+  {
+   "vp": "desktop",
+   "l": "de",
+   "sel": "p[data-t=\"hero_s\"]",
+   "color": "rgb(255, 255, 255)",
+   "size": 18.4,
+   "peor_contraste": 16.57,
+   "minimo": 4.5,
+   "ok": true
+  },
+  {
+   "vp": "movil",
+   "l": "es",
+   "sel": "#menub",
+   "color": "rgb(255, 255, 255)",
+   "size": 20,
+   "peor_contraste": 18.44,
+   "minimo": 4.5,
+   "ok": true
+  },
+  {
+   "vp": "movil",
+   "l": "es",
+   "sel": ".brand",
+   "color": "rgb(255, 255, 255)",
+   "size": 16,
+   "peor_contraste": 19.06,
+   "minimo": 4.5,
+   "ok": true
+  },
+  {
+   "vp": "movil",
+   "l": "es",
+   "sel": ".cta > .btn[data-t=\"book_long\"][data-book=\"\"]",
+   "color": "rgb(255, 255, 255)",
+   "size": 15.2,
+   "peor_contraste": 13.51,
+   "minimo": 4.5,
+   "ok": true
+  },
+  {
+   "vp": "movil",
+   "l": "es",
+   "sel": ".ill",
+   "color": "rgb(255, 255, 255)",
+   "size": 11.52,
+   "peor_contraste": 19.87,
+   "minimo": 4.5,
+   "ok": true
+  },
+  {
+   "vp": "movil",
+   "l": "es",
+   "sel": "a[data-t=\"see_rooms\"]",
+   "color": "rgb(255, 255, 255)",
+   "size": 15.2,
+   "peor_contraste": 16.81,
+   "minimo": 4.5,
+   "ok": true
+  },
+  {
+   "vp": "movil",
+   "l": "es",
+   "sel": "button[data-l=\"de\"]",
+   "color": "rgb(255, 255, 255)",
+   "size": 11.52,
+   "peor_contraste": 18.48,
+   "minimo": 4.5,
+   "ok": true
+  },
+  {
+   "vp": "movil",
+   "l": "es",
+   "sel": "button[data-l=\"en\"]",
+   "color": "rgb(255, 255, 255)",
+   "size": 11.52,
+   "peor_contraste": 18.48,
+   "minimo": 4.5,
+   "ok": true
+  },
+  {
+   "vp": "movil",
+   "l": "es",
+   "sel": "button[data-l=\"es\"]",
+   "color": "rgb(255, 255, 255)",
+   "size": 11.52,
+   "peor_contraste": 11.62,
+   "minimo": 4.5,
+   "ok": true
+  },
+  {
+   "vp": "movil",
+   "l": "es",
+   "sel": "button[data-l=\"fr\"]",
+   "color": "rgb(255, 255, 255)",
+   "size": 11.52,
+   "peor_contraste": 18.48,
+   "minimo": 4.5,
+   "ok": true
+  },
+  {
+   "vp": "movil",
+   "l": "es",
+   "sel": "div[data-t=\"hero_k\"]",
+   "color": "rgb(255, 255, 255)",
+   "size": 12.48,
+   "peor_contraste": 13.79,
+   "minimo": 4.5,
+   "ok": true
+  },
+  {
+   "vp": "movil",
+   "l": "es",
+   "sel": "h1",
+   "color": "rgb(255, 255, 255)",
+   "size": 41.6,
+   "peor_contraste": 13.7,
+   "minimo": 3,
+   "ok": true
+  },
+  {
+   "vp": "movil",
+   "l": "es",
+   "sel": "p[data-t=\"hero_s\"]",
+   "color": "rgb(255, 255, 255)",
+   "size": 18.4,
+   "peor_contraste": 13.93,
+   "minimo": 4.5,
+   "ok": true
+  },
+  {
+   "vp": "movil",
+   "l": "en",
+   "sel": "#menub",
+   "color": "rgb(255, 255, 255)",
+   "size": 20,
+   "peor_contraste": 18.44,
+   "minimo": 4.5,
+   "ok": true
+  },
+  {
+   "vp": "movil",
+   "l": "en",
+   "sel": ".brand",
+   "color": "rgb(255, 255, 255)",
+   "size": 16,
+   "peor_contraste": 19.06,
+   "minimo": 4.5,
+   "ok": true
+  },
+  {
+   "vp": "movil",
+   "l": "en",
+   "sel": ".cta > .btn[data-t=\"book_long\"][data-book=\"\"]",
+   "color": "rgb(255, 255, 255)",
+   "size": 15.2,
+   "peor_contraste": 13.51,
+   "minimo": 4.5,
+   "ok": true
+  },
+  {
+   "vp": "movil",
+   "l": "en",
+   "sel": ".ill",
+   "color": "rgb(255, 255, 255)",
+   "size": 11.52,
+   "peor_contraste": 19.87,
+   "minimo": 4.5,
+   "ok": true
+  },
+  {
+   "vp": "movil",
+   "l": "en",
+   "sel": "a[data-t=\"see_rooms\"]",
+   "color": "rgb(255, 255, 255)",
+   "size": 15.2,
+   "peor_contraste": 16.81,
+   "minimo": 4.5,
+   "ok": true
+  },
+  {
+   "vp": "movil",
+   "l": "en",
+   "sel": "button[data-l=\"de\"]",
+   "color": "rgb(255, 255, 255)",
+   "size": 11.52,
+   "peor_contraste": 18.48,
+   "minimo": 4.5,
+   "ok": true
+  },
+  {
+   "vp": "movil",
+   "l": "en",
+   "sel": "button[data-l=\"en\"]",
+   "color": "rgb(255, 255, 255)",
+   "size": 11.52,
+   "peor_contraste": 11.62,
+   "minimo": 4.5,
+   "ok": true
+  },
+  {
+   "vp": "movil",
+   "l": "en",
+   "sel": "button[data-l=\"es\"]",
+   "color": "rgb(255, 255, 255)",
+   "size": 11.52,
+   "peor_contraste": 18.48,
+   "minimo": 4.5,
+   "ok": true
+  },
+  {
+   "vp": "movil",
+   "l": "en",
+   "sel": "button[data-l=\"fr\"]",
+   "color": "rgb(255, 255, 255)",
+   "size": 11.52,
+   "peor_contraste": 18.48,
+   "minimo": 4.5,
+   "ok": true
+  },
+  {
+   "vp": "movil",
+   "l": "en",
+   "sel": "div[data-t=\"hero_k\"]",
+   "color": "rgb(255, 255, 255)",
+   "size": 12.48,
+   "peor_contraste": 13.78,
+   "minimo": 4.5,
+   "ok": true
+  },
+  {
+   "vp": "movil",
+   "l": "en",
+   "sel": "h1",
+   "color": "rgb(255, 255, 255)",
+   "size": 41.6,
+   "peor_contraste": 13.7,
+   "minimo": 3,
+   "ok": true
+  },
+  {
+   "vp": "movil",
+   "l": "en",
+   "sel": "p[data-t=\"hero_s\"]",
+   "color": "rgb(255, 255, 255)",
+   "size": 18.4,
+   "peor_contraste": 13.93,
+   "minimo": 4.5,
+   "ok": true
+  },
+  {
+   "vp": "movil",
+   "l": "fr",
+   "sel": "#menub",
+   "color": "rgb(255, 255, 255)",
+   "size": 20,
+   "peor_contraste": 18.44,
+   "minimo": 4.5,
+   "ok": true
+  },
+  {
+   "vp": "movil",
+   "l": "fr",
+   "sel": ".brand",
+   "color": "rgb(255, 255, 255)",
+   "size": 16,
+   "peor_contraste": 19.06,
+   "minimo": 4.5,
+   "ok": true
+  },
+  {
+   "vp": "movil",
+   "l": "fr",
+   "sel": ".cta > .btn[data-t=\"book_long\"][data-book=\"\"]",
+   "color": "rgb(255, 255, 255)",
+   "size": 15.2,
+   "peor_contraste": 13.51,
+   "minimo": 4.5,
+   "ok": true
+  },
+  {
+   "vp": "movil",
+   "l": "fr",
+   "sel": ".ill",
+   "color": "rgb(255, 255, 255)",
+   "size": 11.52,
+   "peor_contraste": 19.87,
+   "minimo": 4.5,
+   "ok": true
+  },
+  {
+   "vp": "movil",
+   "l": "fr",
+   "sel": "a[data-t=\"see_rooms\"]",
+   "color": "rgb(255, 255, 255)",
+   "size": 15.2,
+   "peor_contraste": 16.81,
+   "minimo": 4.5,
+   "ok": true
+  },
+  {
+   "vp": "movil",
+   "l": "fr",
+   "sel": "button[data-l=\"de\"]",
+   "color": "rgb(255, 255, 255)",
+   "size": 11.52,
+   "peor_contraste": 18.48,
+   "minimo": 4.5,
+   "ok": true
+  },
+  {
+   "vp": "movil",
+   "l": "fr",
+   "sel": "button[data-l=\"en\"]",
+   "color": "rgb(255, 255, 255)",
+   "size": 11.52,
+   "peor_contraste": 18.48,
+   "minimo": 4.5,
+   "ok": true
+  },
+  {
+   "vp": "movil",
+   "l": "fr",
+   "sel": "button[data-l=\"es\"]",
+   "color": "rgb(255, 255, 255)",
+   "size": 11.52,
+   "peor_contraste": 18.48,
+   "minimo": 4.5,
+   "ok": true
+  },
+  {
+   "vp": "movil",
+   "l": "fr",
+   "sel": "button[data-l=\"fr\"]",
+   "color": "rgb(255, 255, 255)",
+   "size": 11.52,
+   "peor_contraste": 11.62,
+   "minimo": 4.5,
+   "ok": true
+  },
+  {
+   "vp": "movil",
+   "l": "fr",
+   "sel": "div[data-t=\"hero_k\"]",
+   "color": "rgb(255, 255, 255)",
+   "size": 12.48,
+   "peor_contraste": 13.79,
+   "minimo": 4.5,
+   "ok": true
+  },
+  {
+   "vp": "movil",
+   "l": "fr",
+   "sel": "h1",
+   "color": "rgb(255, 255, 255)",
+   "size": 41.6,
+   "peor_contraste": 13.7,
+   "minimo": 3,
+   "ok": true
+  },
+  {
+   "vp": "movil",
+   "l": "fr",
+   "sel": "p[data-t=\"hero_s\"]",
+   "color": "rgb(255, 255, 255)",
+   "size": 18.4,
+   "peor_contraste": 13.93,
+   "minimo": 4.5,
+   "ok": true
+  },
+  {
+   "vp": "movil",
+   "l": "de",
+   "sel": "#menub",
+   "color": "rgb(255, 255, 255)",
+   "size": 20,
+   "peor_contraste": 18.44,
+   "minimo": 4.5,
+   "ok": true
+  },
+  {
+   "vp": "movil",
+   "l": "de",
+   "sel": ".brand",
+   "color": "rgb(255, 255, 255)",
+   "size": 16,
+   "peor_contraste": 19.06,
+   "minimo": 4.5,
+   "ok": true
+  },
+  {
+   "vp": "movil",
+   "l": "de",
+   "sel": ".cta > .btn[data-t=\"book_long\"][data-book=\"\"]",
+   "color": "rgb(255, 255, 255)",
+   "size": 15.2,
+   "peor_contraste": 13.51,
+   "minimo": 4.5,
+   "ok": true
+  },
+  {
+   "vp": "movil",
+   "l": "de",
+   "sel": ".ill",
+   "color": "rgb(255, 255, 255)",
+   "size": 11.52,
+   "peor_contraste": 19.76,
+   "minimo": 4.5,
+   "ok": true
+  },
+  {
+   "vp": "movil",
+   "l": "de",
+   "sel": "a[data-t=\"see_rooms\"]",
+   "color": "rgb(255, 255, 255)",
+   "size": 15.2,
+   "peor_contraste": 16.81,
+   "minimo": 4.5,
+   "ok": true
+  },
+  {
+   "vp": "movil",
+   "l": "de",
+   "sel": "button[data-l=\"de\"]",
+   "color": "rgb(255, 255, 255)",
+   "size": 11.52,
+   "peor_contraste": 11.62,
+   "minimo": 4.5,
+   "ok": true
+  },
+  {
+   "vp": "movil",
+   "l": "de",
+   "sel": "button[data-l=\"en\"]",
+   "color": "rgb(255, 255, 255)",
+   "size": 11.52,
+   "peor_contraste": 18.48,
+   "minimo": 4.5,
+   "ok": true
+  },
+  {
+   "vp": "movil",
+   "l": "de",
+   "sel": "button[data-l=\"es\"]",
+   "color": "rgb(255, 255, 255)",
+   "size": 11.52,
+   "peor_contraste": 18.48,
+   "minimo": 4.5,
+   "ok": true
+  },
+  {
+   "vp": "movil",
+   "l": "de",
+   "sel": "button[data-l=\"fr\"]",
+   "color": "rgb(255, 255, 255)",
+   "size": 11.52,
+   "peor_contraste": 18.48,
+   "minimo": 4.5,
+   "ok": true
+  },
+  {
+   "vp": "movil",
+   "l": "de",
+   "sel": "div[data-t=\"hero_k\"]",
+   "color": "rgb(255, 255, 255)",
+   "size": 12.48,
+   "peor_contraste": 13.77,
+   "minimo": 4.5,
+   "ok": true
+  },
+  {
+   "vp": "movil",
+   "l": "de",
+   "sel": "h1",
+   "color": "rgb(255, 255, 255)",
+   "size": 41.6,
+   "peor_contraste": 13.68,
+   "minimo": 3,
+   "ok": true
+  },
+  {
+   "vp": "movil",
+   "l": "de",
+   "sel": "p[data-t=\"hero_s\"]",
+   "color": "rgb(255, 255, 255)",
+   "size": 18.4,
+   "peor_contraste": 13.93,
+   "minimo": 4.5,
+   "ok": true
+  }
+ ]
+}
