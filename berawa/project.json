@@ -1,0 +1,63 @@
+{
+ "schema": "berawa-project/1",
+ "slug": "demo-hostal-lar-burgos",
+ "template_version": "webfactory-2026.10.28+modelo-cazorla-6cfa67d",
+ "created_at": "2026-10-30T07:33:00+01:00",
+ "updated_at": "2026-10-30T07:45:00+01:00",
+ "business": {
+  "name": "Hostal Lar",
+  "legal_name": "Hostal Lar (titular persona física, autónomo, según el aviso legal de su web)",
+  "registry_ids": [
+   "NIF de persona física publicado en el aviso legal de su web (no se copia en la demo)"
+  ],
+  "url": "https://www.hostallar.es/",
+  "domain": "hostallar.es",
+  "municipality": "Burgos",
+  "province": "Burgos",
+  "address": "Cardenal Benlloch 1 · 09004 Burgos",
+  "phones": [
+   "947 209 655"
+  ],
+  "emails": [
+   "reservas@hostallar.es"
+  ],
+  "sector": "hostal familiar con cuatro tipos de habitación en el centro histórico de Burgos"
+ },
+ "rating": {
+  "value": 4.4,
+  "source": "Google Maps (maps_rating.py, ficha comprobada por telefono, web)",
+  "url": "https://www.google.com/maps/place/Hostal+Lar/@42.3422134,-3.6963633,17z/data=!4m9!3m8!1s0xd45fcd0e6e55ca1:0x777013137f358780!5m2!4m1!1i2!8m2!3d42.3422134!4d-3.6963633!16s%2Fg%2F1tg_ydf0",
+  "date": "2026-10-29T12:45:00+01:00",
+  "threshold": 4.0
+ },
+ "languages": [
+  "es",
+  "en",
+  "fr",
+  "de"
+ ],
+ "noindex": true,
+ "notice_es": "Propuesta de rediseño independiente, no oficial",
+ "chatbot": {
+  "api": false,
+  "kind": "base local de respuestas verificadas",
+  "knowledge": "berawa/knowledge.json",
+  "fallback_es": "No dispongo de esa información"
+ },
+ "book": {
+  "mode": "engine",
+  "url": "https://booking.avirato.com/?code=44423949",
+  "note": "motor de reservas real de su web (Avirato, webcode 44423949 del calendario de hostallar.es), HTTP 200 comprobado el 30/10/2026 en es/en/fr/de."
+ },
+ "audit_original": {
+  "url": "https://www.hostallar.es/",
+  "date": "2026-10-30T06:52:00+01:00",
+  "veredicto": "LCP > 4 s",
+  "tool": "filtro_mala_web.py (Lighthouse movil, mediana de 3 pasadas)"
+ },
+ "first_of_type": "no aplica: alojamiento con precedente en demos anteriores",
+ "codex": {
+  "audits": []
+ },
+ "changes_log": "ver CORRECCIONES.md (si existe) y berawa/V1.0-CAMBIOS.md"
+}
