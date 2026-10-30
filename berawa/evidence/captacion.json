@@ -1,0 +1,30 @@
+{
+ "schema": "berawa-captacion/1",
+ "negocio": "hostal-lar-burgos",
+ "maps": {
+  "fecha": "2026-10-29T12:44:10+01:00",
+  "estado": "LEIDA",
+  "ficha": "Hostal Lar",
+  "nota": 4.4,
+  "coincide": {
+   "tel": true,
+   "web": true
+  },
+  "url": "https://www.google.com/maps/place/Hostal+Lar/@42.3422134,-3.6963633,17z/data=!4m9!3m8!1s0xd45fcd0e6e55ca1:0x777013137f358780!5m2!4m1!1i2!8m2!3d42.3422134!4d-3.6963633!16s%2Fg%2F1tg_ydf0",
+  "herramienta": "factory/webfactory/maps_rating.py"
+ },
+ "web_filtro": {
+  "fecha": "2026-10-29T12:44:10+01:00",
+  "veredicto": "MALA",
+  "informe_velocidad": "LCP > 4 s",
+  "herramienta": "filtro_mala_web.py (Lighthouse movil, mediana de 3 pasadas)"
+ },
+ "titular": {
+  "razon_social": "titular persona física (autónomo)",
+  "cif": "NIF de persona física en el aviso legal (no se copia)",
+  "fuente": "https://www.hostallar.es/aviso-legal/",
+  "persona_juridica": false,
+  "cadena": false,
+  "nota": "autónomo con web propia y correo en su dominio (reservas@hostallar.es); un solo hostal, sin marca de grupo"
+ }
+}
