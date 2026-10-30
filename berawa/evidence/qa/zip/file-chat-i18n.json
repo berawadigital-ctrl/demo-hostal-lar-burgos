@@ -1,0 +1,345 @@
+{
+ "url": "file:///tmp/zip-hostal-lar-burgos/index.html",
+ "langs": {
+  "es": {
+   "textos_iguales_al_es": [],
+   "chat": [
+    {
+     "q": "¿Qué habitaciones tenéis?",
+     "esperado": "K01",
+     "ok": true,
+     "respuesta": "Hay cuatro tipos: individual (9 m², 1 cama), doble con 2 camas (13 m²), doble con cama doble (10 m²) y triple (9 m², 3 camas individuales). "
+    },
+    {
+     "q": "¿Cuánto cuesta una noche?",
+     "esperado": "K02",
+     "ok": true,
+     "respuesta": "Su web no publica precios: indica que varían según temporada y que se consultan en el establecimiento o en su motor de reservas. Consultar p"
+    },
+    {
+     "q": "¿A qué hora abre la recepción?",
+     "esperado": "K03",
+     "ok": true,
+     "respuesta": "La recepción atiende de 09:00 a 23:30 horas."
+    },
+    {
+     "q": "¿Hay wifi?",
+     "esperado": "K04",
+     "ok": true,
+     "respuesta": "Sí, hay conexión Wi-Fi gratuita. Las habitaciones tienen baño privado y vistas a la ciudad."
+    },
+    {
+     "q": "¿Es accesible en silla de ruedas?",
+     "esperado": "K05",
+     "ok": true,
+     "respuesta": "Sí: la habitación doble con cama doble es accesible en silla de ruedas en toda la unidad, el hostal está adaptado y hay ascensor a los pisos"
+    },
+    {
+     "q": "¿Puedo dejar las maletas?",
+     "esperado": "K06",
+     "ok": true,
+     "respuesta": "Sí, hay consigna de equipaje gratuita y un mostrador de información turística."
+    },
+    {
+     "q": "¿Estáis en el Camino de Santiago?",
+     "esperado": "K07",
+     "ok": true,
+     "respuesta": "Sí, el Hostal Lar está a solo 20 metros de una parada de la ruta de peregrinación del Camino de Santiago, en el itinerario del Camino del Ci"
+    },
+    {
+     "q": "¿Dónde está el hostal?",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "Está en Cardenal Benlloch 1, 09004 Burgos, en pleno centro histórico: a 800 metros de la Catedral y a 300 metros del Museo de la Evolución H"
+    },
+    {
+     "q": "¿Cómo reservo?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "Puedes reservar en su motor de reservas (botón Reservar), por correo a reservas@hostallar.es o llamando al 947 209 655. Este asistente no co"
+    },
+    {
+     "q": "¿Podéis confirmarme disponibilidad para mañana?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "Puedes reservar en su motor de reservas (botón Reservar), por correo a reservas@hostallar.es o llamando al 947 209 655. Este asistente no co"
+    },
+    {
+     "q": "¿Hay restaurante?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "No dispongo de esa información. Escríbenos o llámanos: 947 209 655 · reservas@hostallar.es."
+    },
+    {
+     "q": "¿Tenéis piscina?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "No dispongo de esa información. Escríbenos o llámanos: 947 209 655 · reservas@hostallar.es."
+    }
+   ],
+   "chips": [
+    "¿Qué habitaciones tenéis?",
+    "¿Cuánto cuesta una noche?",
+    "¿Dónde está el hostal?",
+    "¿Cómo reservo?"
+   ]
+  },
+  "en": {
+   "textos_iguales_al_es": [
+    "intro_k"
+   ],
+   "chat": [
+    {
+     "q": "Which rooms do you have?",
+     "esperado": "K01",
+     "ok": true,
+     "respuesta": "There are four types: single (9 m², 1 bed), double with 2 beds (13 m²), double with a double bed (10 m²) and triple (9 m², 3 single beds). A"
+    },
+    {
+     "q": "How much is a night?",
+     "esperado": "K02",
+     "ok": true,
+     "respuesta": "Their website does not publish prices: it says they vary by season and can be checked with the hostel or in its booking engine. Ask on Whats"
+    },
+    {
+     "q": "What are the reception hours?",
+     "esperado": "K03",
+     "ok": true,
+     "respuesta": "Reception is open from 09:00 to 23:30."
+    },
+    {
+     "q": "Is there wifi?",
+     "esperado": "K04",
+     "ok": true,
+     "respuesta": "Yes, there is free Wi-Fi. The rooms have a private bathroom and city views."
+    },
+    {
+     "q": "Is it wheelchair accessible?",
+     "esperado": "K05",
+     "ok": true,
+     "respuesta": "Yes: the double room with a double bed is fully wheelchair accessible, the hostel is adapted and a lift serves the upper floors."
+    },
+    {
+     "q": "Can I leave my luggage?",
+     "esperado": "K06",
+     "ok": true,
+     "respuesta": "Yes, there is free luggage storage and a tourist information desk."
+    },
+    {
+     "q": "Are you on the Camino de Santiago?",
+     "esperado": "K07",
+     "ok": true,
+     "respuesta": "Yes, Hostal Lar is only 20 metres from a stop on the Camino de Santiago pilgrimage route, on the Camino del Cid itinerary."
+    },
+    {
+     "q": "Where is the hostel?",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "It is at Cardenal Benlloch 1, 09004 Burgos, in the historic centre: 800 metres from the Cathedral and 300 metres from the Museum of Human Ev"
+    },
+    {
+     "q": "How do I book?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "You can book in their booking engine (Book button), by email to reservas@hostallar.es or by calling 947 209 655. This assistant does not con"
+    },
+    {
+     "q": "Can you confirm availability for tomorrow?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "You can book in their booking engine (Book button), by email to reservas@hostallar.es or by calling 947 209 655. This assistant does not con"
+    },
+    {
+     "q": "Is there a restaurant?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "I don't have that information. Please contact us: 947 209 655 · reservas@hostallar.es."
+    },
+    {
+     "q": "Do you have a swimming pool?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "I don't have that information. Please contact us: 947 209 655 · reservas@hostallar.es."
+    }
+   ],
+   "chips": [
+    "Which rooms do you have?",
+    "How much is a night?",
+    "Where is the hostel?",
+    "How do I book?"
+   ]
+  },
+  "fr": {
+   "textos_iguales_al_es": [
+    "intro_k"
+   ],
+   "chat": [
+    {
+     "q": "Quelles chambres avez-vous ?",
+     "esperado": "K01",
+     "ok": true,
+     "respuesta": "Il y a quatre types : individuelle (9 m², 1 lit), double à 2 lits (13 m²), double avec lit double (10 m²) et triple (9 m², 3 lits simples). "
+    },
+    {
+     "q": "Combien coûte une nuit ?",
+     "esperado": "K02",
+     "ok": true,
+     "respuesta": "Leur site ne publie pas de prix : il indique qu'ils varient selon la saison et qu'on les consulte auprès de l'établissement ou dans son mote"
+    },
+    {
+     "q": "Quels sont les horaires de la réception ?",
+     "esperado": "K03",
+     "ok": true,
+     "respuesta": "La réception est ouverte de 09:00 à 23:30."
+    },
+    {
+     "q": "Y a-t-il le wifi ?",
+     "esperado": "K04",
+     "ok": true,
+     "respuesta": "Oui, le Wi-Fi est gratuit. Les chambres ont une salle de bain privée et vue sur la ville."
+    },
+    {
+     "q": "Est-ce accessible en fauteuil roulant ?",
+     "esperado": "K05",
+     "ok": true,
+     "respuesta": "Oui : la chambre double avec lit double est entièrement accessible en fauteuil roulant, l'hostal est adapté et un ascenseur dessert les étag"
+    },
+    {
+     "q": "Puis-je laisser mes bagages ?",
+     "esperado": "K06",
+     "ok": true,
+     "respuesta": "Oui, il y a une consigne à bagages gratuite et un comptoir d'information touristique."
+    },
+    {
+     "q": "Êtes-vous sur le Chemin de Saint-Jacques ?",
+     "esperado": "K07",
+     "ok": true,
+     "respuesta": "Oui, le Hostal Lar se trouve à seulement 20 mètres d'une étape du Chemin de Saint-Jacques, sur l'itinéraire du Camino del Cid."
+    },
+    {
+     "q": "Où se trouve l'hostal ?",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "Il se trouve Cardenal Benlloch 1, 09004 Burgos, en plein centre historique : à 800 mètres de la cathédrale et à 300 mètres du Musée de l'Évo"
+    },
+    {
+     "q": "Comment réserver ?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "Vous pouvez réserver dans leur moteur de réservation (bouton Réserver), par e-mail à reservas@hostallar.es ou au 947 209 655. Cet assistant "
+    },
+    {
+     "q": "Pouvez-vous me confirmer la disponibilité pour demain ?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "Vous pouvez réserver dans leur moteur de réservation (bouton Réserver), par e-mail à reservas@hostallar.es ou au 947 209 655. Cet assistant "
+    },
+    {
+     "q": "Y a-t-il un restaurant ?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "Je ne dispose pas de cette information. Contactez-nous : 947 209 655 · reservas@hostallar.es."
+    },
+    {
+     "q": "Avez-vous une piscine ?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "Je ne dispose pas de cette information. Contactez-nous : 947 209 655 · reservas@hostallar.es."
+    }
+   ],
+   "chips": [
+    "Quelles chambres avez-vous ?",
+    "Combien coûte une nuit ?",
+    "Où se trouve l'hostal ?",
+    "Comment réserver ?"
+   ]
+  },
+  "de": {
+   "textos_iguales_al_es": [
+    "intro_k"
+   ],
+   "chat": [
+    {
+     "q": "Welche Zimmer gibt es?",
+     "esperado": "K01",
+     "ok": true,
+     "respuesta": "Es gibt vier Typen: Einzelzimmer (9 m², 1 Bett), Doppelzimmer mit 2 Betten (13 m²), Doppelzimmer mit Doppelbett (10 m²) und Dreibettzimmer ("
+    },
+    {
+     "q": "Was kostet eine Übernachtung?",
+     "esperado": "K02",
+     "ok": true,
+     "respuesta": "Die Website nennt keine Preise: Sie hängen von der Saison ab und werden direkt beim Hostal oder in der Buchungsmaschine angefragt. Per Whats"
+    },
+    {
+     "q": "Wann ist die Rezeption geöffnet?",
+     "esperado": "K03",
+     "ok": true,
+     "respuesta": "Die Rezeption ist von 09:00 bis 23:30 Uhr geöffnet."
+    },
+    {
+     "q": "Gibt es WLAN?",
+     "esperado": "K04",
+     "ok": true,
+     "respuesta": "Ja, es gibt kostenloses WLAN. Die Zimmer haben ein eigenes Bad und Stadtblick."
+    },
+    {
+     "q": "Ist es rollstuhlgerecht?",
+     "esperado": "K05",
+     "ok": true,
+     "respuesta": "Ja: Das Doppelzimmer mit Doppelbett ist vollständig rollstuhlgerecht, das Hostal ist barrierearm und ein Aufzug führt in die oberen Etagen."
+    },
+    {
+     "q": "Kann ich mein Gepäck abgeben?",
+     "esperado": "K06",
+     "ok": true,
+     "respuesta": "Ja, es gibt eine kostenlose Gepäckaufbewahrung und eine Touristeninformation."
+    },
+    {
+     "q": "Liegen Sie am Jakobsweg?",
+     "esperado": "K07",
+     "ok": true,
+     "respuesta": "Ja, das Hostal Lar liegt nur 20 Meter von einer Station des Jakobswegs entfernt, an der Route Camino del Cid."
+    },
+    {
+     "q": "Wo liegt das Hostal?",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "Es liegt in der Cardenal Benlloch 1, 09004 Burgos, mitten in der Altstadt: 800 Meter von der Kathedrale und 300 Meter vom Museum der menschl"
+    },
+    {
+     "q": "Wie kann ich buchen?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "Sie können über die Buchungsmaschine (Schaltfläche Buchen), per E-Mail an reservas@hostallar.es oder telefonisch unter 947 209 655 buchen. D"
+    },
+    {
+     "q": "Können Sie mir die Verfügbarkeit für morgen bestätigen?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "Sie können über die Buchungsmaschine (Schaltfläche Buchen), per E-Mail an reservas@hostallar.es oder telefonisch unter 947 209 655 buchen. D"
+    },
+    {
+     "q": "Gibt es ein Restaurant?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "Diese Information liegt mir nicht vor. Schreiben oder rufen Sie uns an: 947 209 655 · reservas@hostallar.es."
+    },
+    {
+     "q": "Haben Sie ein Schwimmbad?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "Diese Information liegt mir nicht vor. Schreiben oder rufen Sie uns an: 947 209 655 · reservas@hostallar.es."
+    }
+   ],
+   "chips": [
+    "Welche Zimmer gibt es?",
+    "Was kostet eine Übernachtung?",
+    "Wo liegt das Hostal?",
+    "Wie kann ich buchen?"
+   ]
+  }
+ },
+ "fail": [],
+ "ok": true
+}
