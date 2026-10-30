@@ -1,0 +1,70 @@
+{
+ "schema": "berawa-sources/1",
+ "site": "https://www.hostallar.es/",
+ "read_at": "2026-10-30T07:33:40+01:00",
+ "method": "Texto visible de cada pagina leido de la web publica del negocio en la fecha indicada (fetch_sources.py) y guardado en berawa/evidence/source-text.json; las citas del chatbot se comprueban contra ese texto con check_kb.py.",
+ "pages": [
+  {
+   "url": "https://www.hostallar.es/",
+   "sha256": "18647b5cacfffdfb2a9254b662ad6b9b92435679fc14a4dce48240531274e0f3",
+   "chars": 3894
+  },
+  {
+   "url": "https://www.hostallar.es/contactar/",
+   "sha256": "066237b1f4eb7903ada608090c2ade75fadfc2a58698df3e821fafca18ba3fb7",
+   "chars": 2313
+  },
+  {
+   "url": "https://www.hostallar.es/donde-estamos/",
+   "sha256": "114e3477ead5231e65ce36e1b03c63ac1a40d2fd5884f5ebba1cc43df53caf05",
+   "chars": 2022
+  },
+  {
+   "url": "https://www.hostallar.es/en/the-hostel/",
+   "sha256": "ecb6ca92e06a002b81af498bf5780f423f385ce2e74cc15601c964ceb9a4c60d",
+   "chars": 3352
+  },
+  {
+   "url": "https://www.hostallar.es/habitaciones/",
+   "sha256": "5197ae00bb3675cd17c4fe0299791e298590638feea48d28daff933e9abc0e15",
+   "chars": 2469
+  },
+  {
+   "url": "https://www.hostallar.es/habitaciones/habitacion-doble-2-camas/",
+   "sha256": "7eb3eab409465001419fc6d6257ae8cffd60ce3aeae76974586f75d6b07b35b9",
+   "chars": 2481
+  },
+  {
+   "url": "https://www.hostallar.es/habitaciones/habitacion-doble-con-cama-doble/",
+   "sha256": "5299a3d3cd797f60fc3c35b305f9989e9bfbcf434a0be99e66c2dc514277363a",
+   "chars": 2528
+  },
+  {
+   "url": "https://www.hostallar.es/habitaciones/habitacion-individual/",
+   "sha256": "5ef4013b7827361e04f85b5f3686bbe6f1fdfa58f8cd43d34f84b4848986c46c",
+   "chars": 2556
+  },
+  {
+   "url": "https://www.hostallar.es/habitaciones/habitacion-triple-con-bano/",
+   "sha256": "39dc404f03d0f8ecad1a388051e81a9beb4c6a82e163fbd57055ffd0d2632a66",
+   "chars": 2404
+  },
+  {
+   "url": "https://www.hostallar.es/hostal-en-burgos/",
+   "sha256": "09422b71c8afdbd879866b4a8ab8298a29d531f1469bde2c935e0987a0007eeb",
+   "chars": 3583
+  }
+ ],
+ "other_pages_read": [
+  "https://www.hostallar.es/aviso-legal/",
+  "https://www.hostallar.es/declaracion-de-accesibilidad/",
+  "https://www.hostallar.es/en/",
+  "https://www.hostallar.es/fr/",
+  "https://www.hostallar.es/my-rooms/",
+  "https://www.hostallar.es/politica-de-cookies/",
+  "https://www.hostallar.es/politica-de-privacidad/",
+  "https://www.hostallar.es/room-type/doble/",
+  "https://www.hostallar.es/room-type/individual/",
+  "https://www.hostallar.es/room-type/triple/"
+ ]
+}
